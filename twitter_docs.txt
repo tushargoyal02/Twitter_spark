@@ -1,0 +1,7 @@
+First set up the twitter developer account for the API keys and access tokens secret.
+THEN go to terminal and install 
+pip3 install tweepy 
+
+Download visualisation library
+pip3 install matplotlib
+pip3 install seaborn
